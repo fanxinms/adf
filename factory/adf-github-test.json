@@ -1,0 +1,9 @@
+{
+	"name": "adf-github-test",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "721aa5d9-e13b-4652-8844-3e72c584104b",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
